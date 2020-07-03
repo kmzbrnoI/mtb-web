@@ -27,6 +27,8 @@ Trávníkem (KMŽ Brno I). Tento web přebírá informace z původního webu
 dostupný. Tento web představuje systém MTB ve verzi, v~jaké je v~současnosti
 nasazen v~KMŽ Brno I.
 
+Cílem tohoto webu je systém MTB představit.
+
 ## Základní vlastnosti
 
  * Sběrnice umožňuje snímání digitálních i analogových vstupů v kolejišti.
