@@ -83,4 +83,4 @@ t:
   cz:
     description: "IO sběrnice pro řízení modelových kolejišť"
     keywords: io,sběrnice,mtb,modul,uni,ttl,protokol
-    footer: "<a href='https://github.com/kmzbrnoI/mtb-web'>Tuto stránku</a> vytvořil <a href='http://apophis.cz/'>Jan Horáček</a> za použití nástroje <a href='http://jekyllrb.com'>Jekyll</a> a stylu <a href='https://github.com/ttskch/jekyll-ttskch-theme'>TtskchTheme</a>."
+    footer: "<a href='https://github.com/kmzbrnoI/mtb-web'>Tuto stránku</a> vytvořil <a href='http://apophis.cz/'>Jan Horáček</a> za použití nástroje <a href='http://jekyllrb.com'>Jekyll</a> a stylu <a href='https://github.com/ttskch/jekyll-ttskch-theme'>TtskchTheme</a>. Informace jsou převzaty z webu <code>http://www.volny.cz/mtbbus/mtb/mtb-hw2.htm</code>. Autory textů jsou Jan Horáček, Viťa Báňa a Petr Trávník."

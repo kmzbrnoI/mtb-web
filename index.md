@@ -1,1 +1,0 @@
-_pages/cz/index.md
