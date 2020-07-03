@@ -1,0 +1,86 @@
+#
+# Basic settings.
+#
+url: https://mtb.kmz-brno.cz
+title: MTB
+avatar: /assets/img/icon.svg
+favicon: /assets/img/icon.ico
+author: Jan Horáček
+robots: index,follow
+baseurl: ""
+
+#
+# Icons
+#
+icons:
+  rss: false
+  email: jan.horacek@kmz-brno.cz
+  github: kmzbrnoI
+  bitbucket:
+  twitter:
+  facebook: kmzbrnoI
+  google_plus:
+  tumblr:
+  behance:
+  dribbble:
+  flickr:
+  instagram:
+  linkedin: # full URL
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange: # full URL
+  steam:
+  wordpress:
+  youtube:
+
+#
+# Prettify url.
+#
+permalink: pretty
+
+#
+# Plugins.
+#
+plugins:
+  - jekyll-paginate
+  - jemoji
+  - jekyll-sitemap
+
+#
+# !! Danger zone !!
+#
+
+include: [
+    "_pages",
+    ".htaccess",
+]
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+excerpt_separator: <!--more-->
+
+sass:
+  sass_dir: _sass
+  style: :compressed # or :expanded
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - vendor
+  - Makefile
+
+t:
+  en:
+    description: "IO bus for model railroad control"
+    keywords: io,bus,mtb,module,uni,ttl,protocol
+    footer: "<a href='https://github.com/kmzbrnoI/mtb-web'>This page</a> was created by <a href='http://apophis.cz/'>Jan Horáček</a> using <a href='http://jekyllrb.com'>Jekyll</a> with style <a href='https://github.com/ttskch/jekyll-ttskch-theme'>TtskchTheme</a>."
+  cz:
+    description: "IO sběrnice pro řízení modelových kolejišť"
+    keywords: io,sběrnice,mtb,modul,uni,ttl,protokol
+    footer: "<a href='https://github.com/kmzbrnoI/mtb-web'>Tuto stránku</a> vytvořil <a href='http://apophis.cz/'>Jan Horáček</a> za použití nástroje <a href='http://jekyllrb.com'>Jekyll</a> a stylu <a href='https://github.com/ttskch/jekyll-ttskch-theme'>TtskchTheme</a>."
