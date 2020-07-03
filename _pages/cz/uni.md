@@ -31,4 +31,4 @@ konektorů, rozhraní MTBbus se připojuje šroubovými svorkami.
 Modul umožňuje ovládaní až 8 návěstidel vybavených rozhraním S-com.
 
  * [Detailní popis modulu MTB-UNI v2.2](/assets/pdf/mtb-uni22.pdf)
- * [Schéma modulu MTB-UNI v2.2]()
+ * [Schéma modulu MTB-UNI v2.2](TODO)

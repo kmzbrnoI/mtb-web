@@ -21,6 +21,17 @@ Systém MTB se skládá z:
 
 MTB moduly komunikují po sběrnici [MTB-bus]().
 
+Moduly jsou zabudovány přímo v kolejišti, co nejblíže umístění ovládaných
+prvků a snímaných signálů. Kabeláž ke každému modulu se skládá ze dvou
+vodičů RS485 a napájení 12 V (s případným doplněním -12 V napětí pro trakční
+regulátory). Díky zjednodušení propojení na pouhé 4 (5) vodičů je snadné
+zabudovat MTBbus komponenty do rozkládacího příp. modulového kolejiště, přičemž
+vlastní propojení se zajistí pomocí 4(5)-pólových konektorů.
+
+Kolejiště s počítačem propojuje USB kabel. Při pohledu na jednoduchost rozvodů
+je ihned vidět první přednost digitální komunikace v porovnání s dřívějšími
+svazky vodičů.
+
 Autorem systému MTB je Víťa Báňa (KŽM Praha 3), systém byl dále rozšířen Petrem
 Trávníkem (KMŽ Brno I). Tento web přebírá informace z původního webu
 `http://www.volny.cz/mtbbus/mtb/mtb-hw2.htm` Víti Báni, který nyní již není
