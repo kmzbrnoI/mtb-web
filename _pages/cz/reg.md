@@ -2,7 +2,7 @@
 layout: page
 title: Modul MTB-REG
 permalink: /cz/reg
-order: 52
+order: 53
 lang: cz
 ref: reg
 ---
@@ -27,5 +27,7 @@ Při poškození výkonových modulů lze snadno provést výměnu náhradou za 
  * [Schéma modulu MTB-REG v2.1](TODO)
  * Firmware TODO
 
-<img src="/assets/img/mtbreg21pwr.jpg" alt="Modul MTB-REG v2.1" style="max-width: 200px" />
-*Modul MTB-REG v2.1*
+<figure>
+<img src="/assets/img/mtbreg21pwr.jpg" alt="Modul MTB-REG v2.1" style="max-width: 300px" />
+<figcaption>Modul MTB-REG v2.1</figcaption>
+</figure>

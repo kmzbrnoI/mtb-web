@@ -11,11 +11,13 @@ Modul MTB-UNI vznikl při spolupráci s dalšími modeláři, kdy se ukázalo �
 maximální sjednocení typů. Z původních úvah na stavbu 8- a 16-vstupových a
 výstupových modulů proto nakonec vyplynul návrh jednoho univerzálního modulu.
 
-<img src="/assets/img/mtbuni22_foto.jpg" alt="Modul MTB-UNI v2.2" style="max-width: 200px" />
-*Modul MTB-UNI v2.2*
+<figure>
+<img src="/assets/img/mtbuni22_foto.jpg" alt="Modul MTB-UNI v2.2" style="max-width: 300px" />
+<figcaption>Modul MTB-UNI v2.2</figcaption>
+</figure>
 
  * Počet vstupů: 16, (připojení TTL signálů, spínacích kontaktů nebo optosnímačů).
- * Počet výstupů: 16 spínacích tranzistorů, tj. 8 dvoučinných přestavníků .
+ * Počet výstupů: 16 spínacích tranzistorů, tj. 8 dvoučinných přestavníků.
  * Náklady: 300–400Kč + plošný spoj (cca 50 Kč).
 
 Obvody spínacích výstupů můžou spínat zátěž 28V/0.5A pomocí tranzistoru NPN
@@ -31,4 +33,4 @@ konektorů, rozhraní MTBbus se připojuje šroubovými svorkami.
 Modul umožňuje ovládaní až 8 návěstidel vybavených rozhraním S-com.
 
  * [Detailní popis modulu MTB-UNI v2.2](/assets/pdf/mtb-uni22.pdf)
- * [Schéma modulu MTB-UNI v2.2](TODO)
+ * [Schéma modulu MTB-UNI v2.2](/assets/pdf/mtb-uni22_sch.pdf)

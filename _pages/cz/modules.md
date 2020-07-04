@@ -10,7 +10,7 @@ ref: modules
 Sběrnice MTB je řízení master modulem [MTB-USB](/usb). Ke sběrnici lze připojit
 tyto moduly v režimu slave:
 
- * [MTB-UNI](/uni)
- * [MTB-TTL](/ttl)
- * [MTB-REG](/reg)
- * [MTB-POT](/pot)
+ * [MTB-UNI](/cz/uni)
+ * [MTB-TTL](/cz/ttl)
+ * [MTB-REG](/cz/reg)
+ * [MTB-POT](/cz/pot)

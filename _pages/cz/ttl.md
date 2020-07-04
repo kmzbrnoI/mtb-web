@@ -11,8 +11,10 @@ Modul MTB-TTL je zjednodušením modulu MTB-UNI. Oproti MTB-UNI neumožňuje
 připojení IR čidel na vstupy a na výstupech používá TTL úrovně místo posuvných
 registrů.
 
-<img src="/assets/img/mtbttl_foto.jpg" alt="Modul MTB-TTL v1.2" style="max-width: 200px" />
-*Modul MTB-TTL v1.2*
+<figure>
+<img src="/assets/img/mtbttl_foto.jpg" alt="Modul MTB-TTL v1.2" style="max-width: 400px" />
+<figcaption>Modul MTB-TTL v1.2</figcaption>
+</figure>
 
  * Počet vstupů: 16, (připojení TTL signálů nebo spínacích kontaktů).
  * Počet výstupů: 16 TTL úrovní.
@@ -24,8 +26,12 @@ dostatečnou ochranu výstupů pro připojení vyšších napětí. Modul dvou k
 neumožňuje jednoduše vypnout periferii na výstupech při zapnutém MTB modulu,
 protože neaktivní výstupy jsou drženy v +5V.
 
+## MTB-TTLm
+
 V KMŽ Brno I vznikla varianta se svorkvnicemi, která je svou funkčností shodná
 s původní MTB-TTL deskou:
 
-TODO <img src="/assets/img/mtbttl_foto.jpg" alt="Modul MTB-TTL v1.2" style="max-width: 200px" />
-*Modul MTB-TTL v1.2*
+<figure>
+<img src="/assets/img/mtbttlm13_foto.jpg" alt="Modul MTB-TTLm v1.3" style="max-width: 400px" />
+<figcaption>Modul MTB-TTLm v1.3</figcaption>
+</figure>
