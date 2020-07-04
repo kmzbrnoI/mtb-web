@@ -11,5 +11,5 @@ if [ $? -eq 0 ]; then
 	OUTPUT+=$(cd ../.. && make build 2>&1)$'\n\n'
 fi
 
-echo "$OUTPUT" | mail "me@apophis.cz" -s "[wsm-web] Deploy status"
+echo "$OUTPUT" | mail "me@apophis.cz" -s "[mtb-web] Deploy status"
 
