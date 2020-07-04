@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="690"
+   height="450"
+   viewBox="-0.5 -0.5 690 450"
+   content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2020-07-04T19:33:11.960Z&quot; agent=&quot;5.0 (X11)&quot; version=&quot;13.3.9&quot; etag=&quot;lv3bF26Dp8jlkLMNeSev&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;_Qgdm7WfPn5mljZUkdSO&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;"
+   id="svg258"
+   sodipodi:docname="topology.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata262">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1182"
+     id="namedview260"
+     showgrid="false"
+     inkscape:zoom="1.4328489"
+     inkscape:cx="260.84554"
+     inkscape:cy="278.47045"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg258" />
+  <defs
+     id="defs2" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path4"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 344.5,81.12 v 47.26" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path6"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 344.5,75.87 3.5,7 -3.5,-1.75 -3.5,1.75 z" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path8"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 344.5,133.63 -3.5,-7 3.5,1.75 3.5,-1.75 z" />
+  <rect
+     style="fill:#d5e8d4;stroke:#82b366"
+     id="rect10"
+     pointer-events="all"
+     ry="9"
+     rx="9"
+     height="60"
+     width="120"
+     y="14.75"
+     x="284.5" />
+  <g
+     id="g16"
+     transform="translate(3,16.25)">
+    <switch
+       id="switch14">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="100%"
+         width="100%"
+         pointer-events="none"
+         style="overflow: visible; text-align: left;">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 30px; margin-left: 282px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+              <xhtml:font
+                 style="font-size: 24px">PC</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:26.66666603px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text12"
+         font-size="12px"
+         y="34"
+         x="341">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+           id="tspan1197">PC</tspan>
+      </text>
+    </switch>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path18"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 344.5,194.75 v 47" />
+  <circle
+     style="fill:#000000;stroke:#000000"
+     r="3"
+     id="ellipse20"
+     pointer-events="all"
+     cy="244.75"
+     cx="344.5" />
+  <rect
+     style="fill:#ffffff;stroke:#000000"
+     id="rect22"
+     pointer-events="all"
+     ry="9"
+     rx="9"
+     height="60"
+     width="120"
+     y="134.75"
+     x="284.5" />
+  <g
+     id="g28"
+     transform="translate(3,14.25)">
+    <switch
+       id="switch26">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="100%"
+         width="100%"
+         pointer-events="none"
+         style="overflow: visible; text-align: left;">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 150px; margin-left: 282px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+              <xhtml:font
+                 style="font-size: 24px">MTB-USB</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:21.33333397px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text24"
+         font-size="12px"
+         y="154"
+         x="341">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+           id="tspan1199">MTB-USB</tspan>
+      </text>
+    </switch>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path30"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 584.5,284.75 v -37" />
+  <circle
+     style="fill:#000000;stroke:#000000"
+     r="3"
+     id="ellipse32"
+     pointer-events="all"
+     cy="244.75"
+     cx="584.5" />
+  <rect
+     style="fill:#ffffff;stroke:#000000"
+     id="rect34"
+     pointer-events="all"
+     ry="9"
+     rx="9"
+     height="60"
+     width="120"
+     y="284.75"
+     x="524.5" />
+  <g
+     id="g40"
+     transform="translate(3,14.25)">
+    <switch
+       id="switch38">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="100%"
+         width="100%"
+         pointer-events="none"
+         style="overflow: visible; text-align: left;">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 300px; margin-left: 522px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+              <xhtml:font
+                 style="font-size: 24px">MTB-UNI</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:21.33333397px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text36"
+         font-size="12px"
+         y="304"
+         x="581">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+           id="tspan1207">MTB-UNI</tspan>
+      </text>
+    </switch>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path42"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 424.5,284.75 v -37" />
+  <circle
+     style="fill:#000000;stroke:#000000"
+     r="3"
+     id="ellipse44"
+     pointer-events="all"
+     cy="244.75"
+     cx="424.5" />
+  <rect
+     style="fill:#ffffff;stroke:#000000"
+     id="rect46"
+     pointer-events="all"
+     ry="9"
+     rx="9"
+     height="60"
+     width="120"
+     y="284.75"
+     x="364.5" />
+  <g
+     id="g52"
+     transform="translate(3,14.25)">
+    <switch
+       id="switch50">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="100%"
+         width="100%"
+         pointer-events="none"
+         style="overflow: visible; text-align: left;">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 300px; margin-left: 362px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+              <xhtml:font
+                 style="font-size: 24px">MTB-TTL</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:21.33333397px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text48"
+         font-size="12px"
+         y="304"
+         x="421">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+           id="tspan1205">MTB-TTL</tspan>
+      </text>
+    </switch>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path54"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 264.5,284.75 v -37" />
+  <circle
+     style="fill:#000000;stroke:#000000"
+     r="3"
+     id="ellipse56"
+     pointer-events="all"
+     cy="244.75"
+     cx="264.5" />
+  <rect
+     style="fill:#ffffff;stroke:#000000"
+     id="rect58"
+     pointer-events="all"
+     ry="9"
+     rx="9"
+     height="60"
+     width="120"
+     y="284.75"
+     x="204.5" />
+  <g
+     id="g64"
+     transform="translate(3,14.25)">
+    <switch
+       id="switch62">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="100%"
+         width="100%"
+         pointer-events="none"
+         style="overflow: visible; text-align: left;">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 300px; margin-left: 202px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+              <xhtml:font
+                 style="font-size: 24px">MTB-UNI</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:21.33333397px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text60"
+         font-size="12px"
+         y="304"
+         x="261">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+           id="tspan1203">MTB-UNI</tspan>
+      </text>
+    </switch>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path66"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 104.5,284.75 v -37" />
+  <circle
+     style="fill:#000000;stroke:#000000"
+     r="3"
+     id="ellipse68"
+     pointer-events="all"
+     cy="244.75"
+     cx="104.5" />
+  <rect
+     style="fill:#ffffff;stroke:#000000"
+     id="rect70"
+     pointer-events="all"
+     ry="9"
+     rx="9"
+     height="60"
+     width="120"
+     y="284.75"
+     x="44.5" />
+  <g
+     id="g76"
+     transform="translate(3,14.25)">
+    <switch
+       id="switch74">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="100%"
+         width="100%"
+         pointer-events="none"
+         style="overflow: visible; text-align: left;">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 300px; margin-left: 42px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+              <xhtml:font
+                 style="font-size: 24px">MTB-REG</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:21.33333397px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text72"
+         font-size="12px"
+         y="304"
+         x="101">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+           id="tspan1201">MTB-REG</tspan>
+      </text>
+    </switch>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path78"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 44.5,244.75 h 600" />
+  <rect
+     style="fill:none;stroke:none"
+     id="rect80"
+     pointer-events="all"
+     height="20"
+     width="40"
+     y="94.75"
+     x="349.5" />
+  <g
+     id="g86"
+     transform="translate(3,14.25)">
+    <switch
+       id="switch84">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="100%"
+         width="100%"
+         pointer-events="none"
+         style="overflow: visible; text-align: left;">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 90px; margin-left: 366px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: center; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">USB</xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000"
+         id="text82"
+         font-size="12px"
+         y="94"
+         x="366">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+           id="tspan1211">USB</tspan>
+      </text>
+    </switch>
+  </g>
+  <rect
+     style="fill:none;stroke:none"
+     id="rect88"
+     pointer-events="all"
+     height="20"
+     width="110"
+     y="214.75"
+     x="354.5" />
+  <g
+     id="g94"
+     transform="translate(3,14.25)">
+    <switch
+       id="switch92">
+      <foreignObject
+         requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+         height="100%"
+         width="100%"
+         pointer-events="none"
+         style="overflow: visible; text-align: left;">
+        <xhtml:div
+           style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 210px; margin-left: 353px;">
+          <xhtml:div
+             style="box-sizing: border-box; font-size: 0; text-align: left; ">
+            <xhtml:div
+               style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+              <xhtml:div
+                 align="left">MTBbus (RS485)<xhtml:br />
+</xhtml:div>
+            </xhtml:div>
+          </xhtml:div>
+        </xhtml:div>
+      </foreignObject>
+      <text
+         style="font-size:12px;font-family:Helvetica;fill:#000000"
+         id="text90"
+         font-size="12px"
+         y="214"
+         x="353">
+        <tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+           id="tspan1209">MTBbus (RS485)</tspan>
+      </text>
+    </switch>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:2, 6"
+     inkscape:connector-curvature="0"
+     id="path96"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 4.5,244.75 h 40" />
+  <path
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:2, 6"
+     inkscape:connector-curvature="0"
+     id="path98"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 644.5,244.75 h 40" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path100"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="M 214.53,378.38 214.5,344.75" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path102"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 214.54,383.63 -3.51,-6.99 3.5,1.74 3.5,-1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path104"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 224.54,378.38 v -13.63 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.02,-7.5 l -0.02,-10" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path106"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 224.54,383.63 -3.5,-7 3.5,1.75 3.5,-1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path108"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 314.54,384.75 v -20 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.01,-4.32 l -0.02,-6.81" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path110"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 314.5,345.87 3.52,6.99 -3.51,-1.74 -3.49,1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path112"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 304.54,384.75 v -20 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.01,-4.32 l -0.02,-6.81" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path114"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 304.5,345.87 3.52,6.99 -3.51,-1.74 -3.49,1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path116"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 294.54,384.75 v -20 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.01,-4.32 l -0.02,-6.81" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path118"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 294.5,345.87 3.52,6.99 -3.51,-1.74 -3.49,1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path120"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 234.54,378.38 v -13.63 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.02,-7.5 l -0.02,-10" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path122"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 234.54,383.63 -3.5,-7 3.5,1.75 3.5,-1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path124"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="M 244.53,378.38 244.5,344.75" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path126"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 244.54,383.63 -3.51,-6.99 3.5,1.74 3.5,-1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path128"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 254.54,378.38 v -13.63 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.02,-7.5 l -0.02,-10" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path130"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 254.54,383.63 -3.5,-7 3.5,1.75 3.5,-1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path132"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 284.54,384.75 v -20 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.01,-4.32 l -0.02,-6.81" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path134"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 284.5,345.87 3.52,6.99 -3.51,-1.74 -3.49,1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path136"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 274.54,384.75 v -20 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.01,-4.32 l -0.02,-6.81" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path138"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 274.5,345.87 3.52,6.99 -3.51,-1.74 -3.49,1.75 z" />
+  <rect
+     style="fill:none;stroke:none"
+     id="rect140"
+     pointer-events="all"
+     height="40"
+     width="370"
+     y="404.75"
+     x="164.5" />
+  <g
+     id="g146"
+     transform="translate(3,0.25)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       x="344.90234"
+       y="412.17731"
+       id="text1193"><tspan
+         sodipodi:role="line"
+         id="tspan1191"
+         x="344.90234"
+         y="412.17731">Periferie:</tspan><tspan
+         sodipodi:role="line"
+         x="344.90234"
+         y="432.17731"
+         id="tspan1195">přestavníky, detekce obsazení, návěstidla, ...</tspan></text>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path148"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="M 84.19,378.38 84.16,344.75" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path150"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 84.2,383.63 -3.51,-6.99 3.5,1.74 3.5,-1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path152"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 94.2,378.38 v -13.63 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.02,-7.5 l -0.02,-10" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path154"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 94.2,383.63 -3.5,-7 3.5,1.75 3.5,-1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path156"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 104.2,378.38 v -13.63 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.02,-7.5 l -0.02,-10" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path158"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 104.2,383.63 -3.5,-7 3.5,1.75 3.5,-1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path160"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 114.19,378.38 -0.03,-33.63" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path162"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 114.2,383.63 -3.51,-6.99 3.5,1.74 3.5,-1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path164"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 124.2,378.38 v -13.63 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.02,-7.5 l -0.02,-10" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path166"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 124.2,383.63 -3.5,-7 3.5,1.75 3.5,-1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path168"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 374.19,378.38 -0.03,-33.63" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path170"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 374.2,383.63 -3.51,-6.99 3.5,1.74 3.5,-1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path172"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 384.2,378.38 v -13.63 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.02,-7.5 l -0.02,-10" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path174"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 384.2,383.63 -3.5,-7 3.5,1.75 3.5,-1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path176"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 474.2,384.75 v -20 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.01,-4.32 l -0.02,-6.81" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path178"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 474.16,345.87 3.52,6.99 -3.51,-1.74 -3.49,1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path180"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 464.2,384.75 v -20 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.01,-4.32 l -0.02,-6.81" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path182"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 464.16,345.87 3.52,6.99 -3.51,-1.74 -3.49,1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path184"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 454.2,384.75 v -20 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.01,-4.32 l -0.02,-6.81" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path186"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 454.16,345.87 3.52,6.99 -3.51,-1.74 -3.49,1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path188"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 394.2,378.38 v -13.63 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.02,-7.5 l -0.02,-10" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path190"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 394.2,383.63 -3.5,-7 3.5,1.75 3.5,-1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path192"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 404.19,378.38 -0.03,-33.63" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path194"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 404.2,383.63 -3.51,-6.99 3.5,1.74 3.5,-1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path196"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 414.2,378.38 v -13.63 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.02,-7.5 l -0.02,-10" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path198"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 414.2,383.63 -3.5,-7 3.5,1.75 3.5,-1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path200"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 444.2,384.75 v -20 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.01,-4.32 l -0.02,-6.81" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path202"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 444.16,345.87 3.52,6.99 -3.51,-1.74 -3.49,1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path204"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 434.2,384.75 v -20 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.01,-4.32 l -0.02,-6.81" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path206"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 434.16,345.87 3.52,6.99 -3.51,-1.74 -3.49,1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path208"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="M 534.53,378.38 534.5,344.75" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path210"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 534.54,383.63 -3.51,-6.99 3.5,1.74 3.5,-1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path212"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 544.54,378.38 v -13.63 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.02,-7.5 l -0.02,-10" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path214"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 544.54,383.63 -3.5,-7 3.5,1.75 3.5,-1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path216"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 634.54,384.75 v -20 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.01,-4.32 l -0.02,-6.81" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path218"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 634.5,345.87 3.52,6.99 -3.51,-1.74 -3.49,1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path220"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 624.54,384.75 v -20 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.01,-4.32 l -0.02,-6.81" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path222"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 624.5,345.87 3.52,6.99 -3.51,-1.74 -3.49,1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path224"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 614.54,384.75 v -20 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.01,-4.32 l -0.02,-6.81" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path226"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 614.5,345.87 3.52,6.99 -3.51,-1.74 -3.49,1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path228"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 554.54,378.38 v -13.63 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.02,-7.5 l -0.02,-10" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path230"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 554.54,383.63 -3.5,-7 3.5,1.75 3.5,-1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path232"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="M 564.53,378.38 564.5,344.75" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path234"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 564.54,383.63 -3.51,-6.99 3.5,1.74 3.5,-1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path236"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 574.54,378.38 v -13.63 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.02,-7.5 l -0.02,-10" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path238"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 574.54,383.63 -3.5,-7 3.5,1.75 3.5,-1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path240"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 604.54,384.75 v -20 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.01,-4.32 l -0.02,-6.81" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path242"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 604.5,345.87 3.52,6.99 -3.51,-1.74 -3.49,1.75 z" />
+  <path
+     style="fill:none;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path244"
+     pointer-events="stroke"
+     stroke-miterlimit="10"
+     d="m 594.54,384.75 v -20 q 0,-10 0,-5 v 2.5 q 0,2.5 -0.01,-4.32 l -0.02,-6.81" />
+  <path
+     style="fill:#000000;stroke:#000000;stroke-miterlimit:10"
+     inkscape:connector-curvature="0"
+     id="path246"
+     pointer-events="all"
+     stroke-miterlimit="10"
+     d="m 594.5,345.87 3.52,6.99 -3.51,-1.74 -3.49,1.75 z" />
+</svg>
