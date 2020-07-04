@@ -7,13 +7,13 @@ lang: cz
 ref: bus
 ---
 
-Komunikace mezi MTB moduly probíhá pomocí 2-vodičového rozhraní RS485. V přenosu
-dat je použit 9bitový režim UART podporovaný rozhraním procesoru AT89C2051.
-Přenosová rychlost je 38.4 kBd – 115kBd, typický přenos jednoho příkazu a
-odpovědi mezi PC a modulem trvá cca 2ms resp. 0.8ms. Komunikace je založena na
-principu master-slave, tj. příkazy vysílá výhradně počítač PC (resp. MTB-USB
-modul) jednotlivým modulům, které zpětně odpoví. Každý modul má nastavenu
-unikátní adresu, pomocí které mu jsou směrovány příkazy. Detailnější
+Komunikace mezi MTB moduly probíhá pomocí dvouvodičového rozhraní RS485.
+V přenosu dat je použit devítibitový režim UART podporovaný rozhraním procesoru
+AT89C2051. Přenosová rychlost je 38.4 kBd – 115 kBd, typický přenos jednoho
+příkazu a odpovědi mezi PC a modulem trvá cca 2ms resp. 0.8ms. Komunikace je
+založena na principu master-slave, tj. příkazy vysílá výhradně počítač PC
+(resp. MTB-USB modul) jednotlivým modulům, které zpětně odpoví. Každý modul má
+nastavenu unikátní adresu, pomocí které mu jsou směrovány příkazy. Detailnější
 rozebírání komunikace již spadá mimo oblast modelářství, znalost komunikace
 však není podmínkou ke stavbě a oživení modulů.
 
