@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modul MTB-REG
-permalink: /cz/reg
+permalink: /reg
 order: 53
 lang: cz
 ref: reg

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modul MTB-POT
-permalink: /cz/pot
+permalink: /pot
 order: 54
 lang: cz
 ref: pot

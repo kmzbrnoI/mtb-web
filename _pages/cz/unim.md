@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modul MTB-UNIm
-permalink: /cz/unim
+permalink: /unim
 order: 52
 lang: cz
 ref: ttl

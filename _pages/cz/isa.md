@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zásuvná karta RS485 do sběrnice ISA
-permalink: /cz/isa
+permalink: /isa
 order: 41
 lang: cz
 ref: isa

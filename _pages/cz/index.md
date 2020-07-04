@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Základní informace
-permalink: /cz/index
+permalink: /index
 lang: cz
 ref: index
 ---
@@ -13,13 +13,13 @@ nastavit velké množství výstupů v kolejišti (např. výhybky). Systém je
 
 Systém MTB se skládá z:
 
- * [vstupně/výstupních modulů](/cz/modules),
- * [MTB-USB desky](/cz/usb) pro připojení systému k počítači,
- * [počítačových knihoven](/cz/lib) pro přístup k sběrnici,
+ * [vstupně/výstupních modulů](/modules),
+ * [MTB-USB desky](/usb) pro připojení systému k počítači,
+ * [počítačových knihoven](/lib) pro přístup k sběrnici,
 
 ![Obrázek topologie sběrnice]()
 
-MTB moduly komunikují po sběrnici [MTBbus](/cz/bus).
+MTB moduly komunikují po sběrnici [MTBbus](/bus).
 
 Moduly jsou zabudovány přímo v kolejišti, co nejblíže umístění ovládaných
 prvků a snímaných signálů. Kabeláž ke každému modulu se skládá ze dvou

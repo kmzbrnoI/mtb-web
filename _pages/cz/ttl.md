@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modul MTB-TTL
-permalink: /cz/ttl
+permalink: /ttl
 order: 51
 lang: cz
 ref: ttl

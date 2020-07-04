@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kontakt
-permalink: /cz/contact
+permalink: /contact
 order: 100
 lang: cz
 ref: contact

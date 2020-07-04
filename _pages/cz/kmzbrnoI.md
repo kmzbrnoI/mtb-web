@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MTB v KMŽ Brno I
-permalink: /cz/kmzbrnoI
+permalink: /kmzbrnoI
 order: 10
 lang: cz
 ref: kmzbrnoI
@@ -15,8 +15,8 @@ Výchozími bloky tehdy byla jedna deska MTB-UNI v1 a řídící deska MTB-PC. 
 následných pokusech a drobných odladěních jsme měli naprogramovány a odzkoušeny
 jednoduché aplikace na autobloku. Výsledky byly natolik dobré, že jsme se
 rozhodli podporovat tento systém do budoucnosti. Na základě našich požadavků
-vznikly nové moduly [MTB-UNI](/cz/uni), [MTB-TTL](/cz/ttl), [MTB-REG](/cz/reg),
-[MTB-POT](/cz/pot) a S-com. Tímto bych chtěli poděkovat autorovi celého
+vznikly nové moduly [MTB-UNI](/uni), [MTB-TTL](/ttl), [MTB-REG](/reg),
+[MTB-POT](/pot) a S-com. Tímto bych chtěli poděkovat autorovi celého
 projektu MTB Víťovi Báňovi za ochotu a čas strávený při vývoji systému.
 
 Ještě v původních prostorách na Bratislavské ulici se nám podařilo postavit
@@ -53,7 +53,7 @@ síťovou komunikaci. Tudíž nezbývalo nic jiného, než celý systém přesun
 operační systém Windows. Uvažován byl i Linux, ale nenašel se nikdo dostupný,
 kdo by s ním uměl pracovat na programátorské úrovni. Tím samozřejmě vznikl
 další problém – rozhraní mezi PC a sběrnicí MTB. [Původní deska
-MTB-PC](/cz/isa) byla navržena pro slot ISA, který již není v novějších PC
+MTB-PC](/isa) byla navržena pro slot ISA, který již není v novějších PC
 k dispozici.
 
 Jako komunikační port bylo tedy zvoleno rozhraní USB a k němu přes obvod

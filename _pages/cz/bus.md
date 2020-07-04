@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MTB sběrnice
-permalink: /cz/bus
+permalink: /bus
 order: 30
 lang: cz
 ref: bus
