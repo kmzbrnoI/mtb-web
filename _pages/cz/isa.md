@@ -15,4 +15,7 @@ ISA slotu jako komunikačního rozhraní pro MTBbus vznikla z dříve realizova
 projektu, což zjednodušilo a zrychlilo návrh prototypu. ISA sběrnice je však
 dnes nedostupná, takže náhradou je [MTB-USB](/usb) modul.
 
-![Karta do sběrnice PC-ISA s komunikací RS485](/assets/img/mtbisa_foto.jpg)
+<figure>
+<img src="/assets/img/mtbisa_foto.jpg" alt="Karta do sběrnice PC-ISA s komunikací RS485" style="max-width: 300px" />
+<figcaption>Karta do sběrnice PC-ISA s komunikací RS485</figcaption>
+</figure>
