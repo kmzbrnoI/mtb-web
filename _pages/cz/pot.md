@@ -18,5 +18,4 @@ potenciometry (0..max) a 4 binárními vstupy pro spínače směru jízdy.
 </figure>
 
  * [Detailní popis modulu MTB-POT v1.0](/assets/pdf/mtb-pot10.pdf)
- * [Schéma modulu MTB-POT v1.0](TODO)
- * Firmware TODO
+ * [Schéma modulu MTB-POT v1.0](/assets/pdf/mtb-pot10-sch.pdf)
