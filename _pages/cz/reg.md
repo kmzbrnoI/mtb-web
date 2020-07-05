@@ -24,8 +24,8 @@ na výstupu a zahlásí chybu prostřednictvím sběrnice MTBbus do centrální
 Při poškození výkonových modulů lze snadno provést výměnu náhradou za jiný.
 
  * [Detailní popis modulu MTB-REG v2.1](/assets/pdf/mtb-reg21.pdf)
- * [Schéma modulu MTB-REG v2.1](TODO)
- * Firmware TODO
+ * [Schéma základního modulu MTB-REG v2.1](/assets/pdf/mtb-reg21-sch.pdf)
+ * [Schéma výkonového modulu MTB-REG v2.1](/assets/pdf/mtb-reg21pwr-sch.pdf)
 
 <figure>
 <img src="/assets/img/mtbreg21pwr.jpg" alt="Modul MTB-REG v2.1" style="max-width: 300px" />

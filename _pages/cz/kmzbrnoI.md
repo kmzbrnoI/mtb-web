@@ -16,8 +16,9 @@ následných pokusech a drobných odladěních jsme měli naprogramovány a od
 jednoduché aplikace na autobloku. Výsledky byly natolik dobré, že jsme se
 rozhodli podporovat tento systém do budoucnosti. Na základě našich požadavků
 vznikly nové moduly [MTB-UNI](/uni), [MTB-TTL](/ttl), [MTB-REG](/reg),
-[MTB-POT](/pot) a S-com. Tímto bych chtěli poděkovat autorovi celého
-projektu MTB Víťovi Báňovi za ochotu a čas strávený při vývoji systému.
+[MTB-POT](/pot) a [S-com](https://www.mtb-model.com/elektro/s-com.htm). Tímto
+bych chtěli poděkovat autorovi celého projektu MTB Víťovi Báňovi za ochotu
+a čas strávený při vývoji systému.
 
 Ještě v původních prostorách na Bratislavské ulici se nám podařilo postavit
 jednodušší kolejiště složené z modulů, které bylo vystaveno později na zámku

@@ -19,7 +19,8 @@ registrů.
  * Počet vstupů: 16, (připojení TTL signálů nebo spínacích kontaktů).
  * Počet výstupů: 16 TTL úrovní.
  * Náklady: 300–400Kč + plošný spoj (cca 50 Kč).
- * Modul umožňuje ovládaní až 8 návěstidel vybavených rozhraním S-com.
+ * Ovládaní až 8 návěstidel vybavených rozhraním
+   [S-com](https://www.mtb-model.com/elektro/s-com.htm).
 
 Od tohoto modulu v současnosti v KMŽ Brno I upouštíme, protože modul nemá
 dostatečnou ochranu výstupů pro připojení vyšších napětí. Modul dvou konstrukcí
