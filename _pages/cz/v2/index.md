@@ -27,3 +27,8 @@ Ke sběrnici lze připojit tyto moduly v režimu *slave*:
 
 V počítači lze pro připojení k MTB-USB modulu použít [knihovnu](lib).
 Existuje [testovací software](testsw).
+
+Autorem systému MTB je Víťězslav Báňa (KŽM Praha 3), systém byl dále rozšířen
+Petrem Trávníkem (KMŽ Brno I). Tato stránka přebírá informace z původního webu
+`http://www.volny.cz/mtbbus/mtb/mtb-hw2.htm` Víti Báni, který nyní již není
+dostupný.
