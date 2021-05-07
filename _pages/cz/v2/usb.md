@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Modul MTB-USB
-permalink: /usb
-order: 40
+title: MTB-USB v3
+permalink: /v2/usb
 lang: cz
+hide: true
 ref: usb
 ---
 

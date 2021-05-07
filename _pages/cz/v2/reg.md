@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Modul MTB-REG
-permalink: /reg
-order: 53
+title: Modul MTB-REG v2
+permalink: /v2/reg
 lang: cz
+hide: true
 ref: reg
 ---
 

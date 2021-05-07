@@ -1,9 +1,9 @@
 ---
 layout: page
-title: MTB sběrnice
-permalink: /bus
-order: 30
+title: Sběrnice MTBbus v2
+permalink: /v2/bus
 lang: cz
+hide: true
 ref: bus
 ---
 
