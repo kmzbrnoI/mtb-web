@@ -17,6 +17,7 @@ znalost komunikace však není podmínkou ke stavbě a oživení modulů.
 
  * [Popis komunikace MTBbus v4](https://github.com/kmzbrnoI/mtbbus-protocol)
    (anglicky)
+ * [Seznam změn oproti verzi 2](https://github.com/kmzbrnoI/mtbbus-protocol/blob/master/changelog.md) (anglicky)
 
 Sběrnice je navržena tak, aby v budoucnu umožňovala přidání dalších typů modulů.
 
