@@ -39,7 +39,7 @@ Sběrnice MTBbus je řízená *master* deskou [MTB-USB](v4/usb). Zatím existuj�
 moduly:
 
  * [MTB-UNI](v4/uni)
- * [Rozšíření deskek MTB-UNI, MTB-UNIm a MTB-TTL v2 pro použití s MTB v4](v4/2-avr)
+ * [Rozšíření deskek MTB-UNI, MTB-UNIm a MTB-TTL v2 pro použití s MTB v4](v4/mtb-2-avr)
 
 ## Základní vlastnosti systému MTB
 
