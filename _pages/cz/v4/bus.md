@@ -21,12 +21,14 @@ znalost komunikace však není podmínkou ke stavbě a oživení modulů.
 
 Sběrnice je navržena tak, aby v budoucnu umožňovala přidání dalších typů modulů.
 
-## Nastavení adresy modulů MTBbus
+## Nastavení adresy modulů MTB
 
-Volba adresy u modulů MTB je řešena jednoduše zasunovacími propojkami. Výhodou
-je snadnost nastavení, které je snadno "čitelné".
+Moduly MTB je možné adresovat buď zasouvacími propojkami, nebo z počítače.
+Protokol umožňuje obě varianty, volba je na autorovi MTB modulu.
 
-## Konfigurace funkce modulů MTBbus
+Např. modul [MTB-UNI v4](uni) používá pro volbu adresy zasouvací propojky.
+
+## Konfigurace funkce modulů MTB
 
 Moduly mají možnost konfigurace (např. volba připojení různých typů vstupních
 signálů), která je řešena programově. Po zapnutí řídící počítač zjistí, jaké
