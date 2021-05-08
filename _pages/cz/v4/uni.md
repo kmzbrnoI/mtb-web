@@ -16,16 +16,18 @@ a [MTB-TTL v1](/v2/ttl).
 <figcaption>Modul MTB-UNI v4.0</figcaption>
 </figure>
 
- * Počet vstupů: 16 (připojení TTL signálů, spínacích kontaktů nebo optosnímačů).
+ * Počet vstupů: 16 (připojení TTL signálů, spínacích kontaktů nebo otevřených kolektorů).
  * Počet výstupů: 16 spínacích tranzistorů, tj. 8 dvoučinných přestavníků.
- * Náklady na výrobu: ~500Kč.
+ * Náklady na výrobu: ~500 Kč.
  * Ovládaní až 16 návěstidel vybavených rozhraním
    [S-com](https://www.mtb-model.com/elektro/s-com.htm).
  * Kmitání výstupů.
+ * Napájení: 7–17 V DC.
 
 Budiče výstupů můžou spínat zátěž 28V/0.5A pomocí tranzistoru NPN
 s otevřeným kolektorem. Vstupní obvody jsou navrženy univerzálně pro připojení
-binárních signálů (kontakty relé, TTL, aj.).
+binárních signálů (kontakty relé, TTL, aj.). Vstupy i výstupy obsahují ochranu
+proti nadproudu a přepětí. Vstupy obsahují *pull-up* rezistory.
 
 Srdcem modulu je procesor ATmega128a, který obsahuje všechny potřebné funkce
 pro řízení a komunikaci. Připojení signálů je realizováno pomocí zásuvných
@@ -40,7 +42,7 @@ konektorů nebo svorkovnic (variantní osazení DPS), rozhraní MTBbus se připo
 Připojení IR čidel, které podporovala deska [MTB-UNI v2](/v2/uni) je možné
 skrze speciální desku [IR čidel](/irdet).
 
-Veškerá výrobní data modulu jsem k dispozici pod otevřenou licencí. Očekává se
+Veškerá výrobní data modulu jsou k dispozici pod otevřenou licencí. Očekává se
 automatické osazování součástek.
 
  * [Schéma a deska plošných spojů](https://github.com/kmzbrnoI/mtb-uni-4-ele)
