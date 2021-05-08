@@ -20,7 +20,7 @@ Tento web popisuje novou verzi 4, dokumentace starší verze 2 je dostupná
 Systém MTB se skládá z:
  * [vstupně/výstupních modulů](/v4/modules),
  * [MTB-USB desky](/v4/usb) pro připojení systému k počítači,
- * [počítačových aplikací a knihoven](/v4/daemon) pro přístup ke sběrnici,
+ * [počítačových aplikací a knihoven](/v4/daemon) pro přístup ke sběrnici.
 
 <figure>
 <img src="/assets/img/mtbv4-topology.svg" alt="Topologie sběrnice MTBbus" style="max-width: 600px" />
@@ -44,6 +44,10 @@ moduly:
 ## Základní vlastnosti systému MTB
 
  * Snímání digitálních vstupů z kolejiště.
- * Řízení digitálních výstupů a S-COM návěstidel.
- * Až 255 modulů.
+ * Řízení digitálních výstupů a [S-COM](https://www.mtb-model.com/elektro/s-com.htm) návěstidel.
+ * Až 255 modulů, celkem až 4080 vstupů a 4080 výstupů.
  * Sběrnice RS485.
+ * Detekce funkčnosti modulů.
+ * Aktualizace firmware modulů přímo přes [MTBbus](v4/bus).
+ * Výměna modulů možná za chodu sběrnice.
+ * Otevřené řešení, všechna výrobní data pro všechny komponenty k dispozici.

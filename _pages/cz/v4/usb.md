@@ -26,7 +26,16 @@ jako MTB moduly nebo galvanicky odděleným měničem z počítačové části (
 osazení součástek). Srdcem desky je procesor *STM32F103* v počítačové části,
 který je programován v jazyce C.
 
+ * Napájení: 7–17 V DC.
+ * Náklady na výrobu: ~700 Kč.
+
+V počítači se MTB-USB tváří jaké sériový port, lze se k němu tedy připojit
+z běžných operačních systémů (např. Windows a Linux) bez použití speciálních
+ovladačů. Specifikace protokolu mezi MTB-USB a počítačem je k dispozici
+[zde](https://github.com/kmzbrnoI/mtbbus-protocol/tree/master/pc).
+
 Veškerá výrobní data k modulu jsou k dispozici ve zdrojových formátech.
 
  * [Schéma zapojení modulu a výkres desky plošných spojů](https://github.com/kmzbrnoI/mtb-usb-4-pcb)
+ * [Schéma ve formátu PDF](https://github.com/kmzbrnoI/mtb-usb-4-pcb/releases/latest/download/mtb-usb-4-ele.pdf)
  * [Firmware](https://github.com/kmzbrnoI/mtb-usb-4-fw)

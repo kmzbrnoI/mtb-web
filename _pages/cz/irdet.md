@@ -17,5 +17,15 @@ v4](/v4/uni). Modul není připojen na sběrnici MTBbus!
 <figcaption>IRdet v2.0</figcaption>
 </figure>
 
+## Základní vlastnosti
+
+ * Až 8 IR vstupů
+ * 8 digitálních opticky oddělených výstupů
+ * Napájení: 10–17 V DC
+
+## Ke stažení
+
  * [Schéma, deska plošných spojů](https://github.com/kmzbrnoI/irdet-ele)
- * [Firmware](https://github.com/kmzbrnoI/irdet-fw)
+ * [Schéma ve formátu PDF](https://github.com/kmzbrnoI/irdet-ele/releases/latest/download/irdet-sch.pdf)
+ * [Firmware – hex soubor](https://github.com/kmzbrnoI/irdet-fw/releases/latest)
+ * [Firmware – zdrojové kódy](https://github.com/kmzbrnoI/irdet-fw)

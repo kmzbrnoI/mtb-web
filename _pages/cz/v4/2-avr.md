@@ -25,4 +25,5 @@ Veškerá výrobní data modulu jsem k dispozici pod otevřenou licencí. Oček
 automatické osazování součástek.
 
  * [Schéma a deska plošných spojů](https://github.com/kmzbrnoI/mtb-2-avr-pcb)
+ * [Schéma ve formátu PDF](https://github.com/kmzbrnoI/mtb-2-avr-pcb/releases/latest/download/mtb-2-avr-sch.pdf)
  * [Firmware](https://github.com/kmzbrnoI/mtb-2-avr-fw)
