@@ -20,7 +20,7 @@ Tento web popisuje novou verzi 4, dokumentace starší verze 2 je dostupná
 Systém MTB se skládá z:
  * [vstupně/výstupních modulů](/v4/modules),
  * [MTB-USB desky](/v4/usb) pro připojení systému k počítači,
- * [počítačových aplikací a knihoven](/v4/pc) pro přístup ke sběrnici,
+ * [počítačových aplikací a knihoven](/v4/daemon) pro přístup ke sběrnici,
 
 <figure>
 <img src="/assets/img/mtbv4-topology.svg" alt="Topologie sběrnice MTBbus" style="max-width: 600px" />
