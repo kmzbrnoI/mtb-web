@@ -45,6 +45,17 @@ iframe, img, embed, object, video {
     max-width: 100%;
 }
 
-figure {
+figcaption {
     text-align: center;
+    font-style: italic;
+}
+
+figure {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+figure img {
+    margin: 5px auto 5px auto;
+    display: block;
 }

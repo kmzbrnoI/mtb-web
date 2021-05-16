@@ -12,7 +12,7 @@ a S-COM výstupů. Nahrazuje moduly [MTB-UNI v2](/v2/uni), [MTB-UNIm v2](/v2/un
 a [MTB-TTL v1](/v2/ttl).
 
 <figure>
-<img src="/assets/img/mtb4/uni-v40-screw-all.jpg" alt="Modul MTB-UNI v4.0" style="max-width: 500px" />
+<img src="/assets/img/mtb4/uni-v40-screw-all.jpg" alt="Modul MTB-UNI v4.0" style="width: 100%; max-width: 500px" />
 <figcaption>Modul MTB-UNI v4.0</figcaption>
 </figure>
 

@@ -13,7 +13,7 @@ Modul IRdet slouží k připojení až 8 infračidel. Modul budí vysílací d
 v4](/v4/uni). Modul není připojen na sběrnici MTBbus!
 
 <figure>
-<img src="/assets/img/mtb4/irdet-all.jpg" alt="Modul MTB-UNI v4.0" style="max-width: 500px" />
+<img src="/assets/img/mtb4/irdet-all.jpg" alt="Modul MTB-UNI v4.0" style="width: 100%; max-width: 500px" />
 <figcaption>IRdet v2.0</figcaption>
 </figure>
 

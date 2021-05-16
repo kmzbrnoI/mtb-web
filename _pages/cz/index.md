@@ -23,7 +23,7 @@ Systém MTB se skládá z:
  * [počítačových aplikací a knihoven](/v4/daemon) pro přístup ke sběrnici.
 
 <figure>
-<img src="/assets/img/mtbv4-topology.svg" alt="Topologie sběrnice MTBbus" style="max-width: 600px" />
+<img src="/assets/img/mtbv4-topology.svg" alt="Topologie sběrnice MTBbus" />
 <figcaption>Topologie sběrnice MTBbus.</figcaption>
 </figure>
 

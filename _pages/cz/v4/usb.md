@@ -11,12 +11,12 @@ MTB-USB poskytuje rozhraní mezi sběrnici [MTBbus](bus) a počítačem (USB). 
 časově kritické operace sběrnice a umožňuje SW v počítači povelovat MTB moduly.
 
 <figure>
-<img src="/assets/img/mtb4/usb-all.jpg" alt="Modul MTB-USB" style="max-width: 500px">
+<img src="/assets/img/mtb4/usb-all.jpg" alt="Modul MTB-USB" style="width: 100%; max-width: 500px">
 <figcaption>MTB-USB v4</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/mtb4/usb-inside.jpg" alt="Modul MTB-USB" style="max-width: 500px">
+<img src="/assets/img/mtb4/usb-inside.jpg" alt="Modul MTB-USB" style="width: 100%; max-width: 500px">
 <figcaption>DPS MTB-USB v4</figcaption>
 </figure>
 

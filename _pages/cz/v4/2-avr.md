@@ -12,12 +12,12 @@ Deska MTB-2-AVR umožňuje použít protokol MTBbus v4 spolu se starými moduly
 Ze starých modulů se vytáhne procesor a místo něj vloží tato nástavná deska.
 
 <figure>
-<img src="/assets/img/mtb4/uni-2-upgrade-alone.jpg" alt="Modul MTB-UNI v4.0" style="max-width: 300px" />
+<img src="/assets/img/mtb4/uni-2-upgrade-alone.jpg" alt="Modul MTB-UNI v4.0" style="width: 100%; max-width: 300px" />
 <figcaption>Nástavná deska MTB-2-AVR.</figcaption>
 </figure>
 
 <figure>
-<img src="/assets/img/mtb4/uni-2-upgrade-all.jpg" alt="Modul MTB-UNI v4.0" style="max-width: 500px" />
+<img src="/assets/img/mtb4/uni-2-upgrade-all.jpg" alt="Modul MTB-UNI v4.0" style="width: 100%; max-width: 500px" />
 <figcaption>Nástavná deska v modulu MTB-UNI v2.2.</figcaption>
 </figure>
 
