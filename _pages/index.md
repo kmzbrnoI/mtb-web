@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Systém MTB
-permalink: /cz/index
-hide: true
+permalink: /index
 lang: cz
+ref: index
 ---
 
 MTB je systém pro řízení příslušenství modelového kolejiště. MTB zpracovává

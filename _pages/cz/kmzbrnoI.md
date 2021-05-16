@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MTB v KMŽ Brno I
-permalink: /kmzbrnoI
+permalink: /cz/kmzbrnoI
 order: 10
 lang: cz
 ref: kmzbrnoI
@@ -15,8 +15,8 @@ Výchozími bloky tehdy byla jedna deska MTB-UNI v1 a řídící deska MTB-PC. 
 následných pokusech a drobných odladěních jsme měli naprogramovány a odzkoušeny
 jednoduché aplikace na autobloku. Výsledky byly natolik dobré, že jsme se
 rozhodli podporovat tento systém do budoucnosti. Na základě našich požadavků
-vznikly nové moduly [MTB-UNI](/v2/uni), [MTB-TTL](/v2/ttl), [MTB-REG](/v2/reg),
-[MTB-POT](/v2/pot) a [S-com](https://www.mtb-model.com/elektro/s-com.htm). Tímto
+vznikly nové moduly [MTB-UNI](/cz/v2/uni), [MTB-TTL](/cz/v2/ttl), [MTB-REG](/cz/v2/reg),
+[MTB-POT](/cz/v2/pot) a [S-com](https://www.mtb-model.com/elektro/s-com.htm). Tímto
 bych chtěli poděkovat autorovi celého projektu MTB Víťovi Báňovi za ochotu
 a čas strávený při vývoji systému.
 
@@ -54,22 +54,22 @@ síťovou komunikaci. Tudíž nezbývalo nic jiného, než celý systém přesun
 operační systém Windows. Uvažován byl i Linux, ale nenašel se nikdo dostupný,
 kdo by s ním uměl pracovat na programátorské úrovni. Tím samozřejmě vznikl
 další problém – rozhraní mezi PC a sběrnicí MTB. [Původní deska
-MTB-PC](/v2/isa) byla navržena pro slot ISA, který již není v novějších PC
+MTB-PC](/cz/v2/isa) byla navržena pro slot ISA, který již není v novějších PC
 k dispozici.
 
 Jako komunikační port bylo tedy zvoleno rozhraní USB a k němu přes obvod
 FT245BM připojen procesor 89S8252.
 
-Takto vznikl první prototyp modulu [MTB-USB](/v2/usb) v1. Jeho hlavní nevýhodou bylo že
+Takto vznikl první prototyp modulu [MTB-USB](/cz/v2/usb) v1. Jeho hlavní nevýhodou bylo že
 šlo využívat pouze malou vnitřní RAM procesoru a tak nebylo příliš prostoru na
 jeho rozšířené využití, ale i tak tento prototyp splnil svůj účel a byl schopen
-spolehlivě komunikovat s téměř 30 připojenými moduly [MTB-UNI](/v2/uni) a
-[MTB-TTL](/v2/ttl) a to dokonce se zvýšenou rychlostí sběrnice MTB na 115 kBaud
+spolehlivě komunikovat s téměř 30 připojenými moduly [MTB-UNI](/cz/v2/uni) a
+[MTB-TTL](/cz/v2/ttl) a to dokonce se zvýšenou rychlostí sběrnice MTB na 115 kBaud
 (původně 38 kBaud).
 
 Jelikož vyvstal požadavek doplnit do rozhraní i určitou vlastní inteligenci
-a také podporu pro moduly [MTB-REG](/v2/reg) a [MTB-POT](/v2/pot), vznikla
-novější verze modulu [MTB-USB](/v2/usb), který navíc obsahuje i paměť RAM 32kB
+a také podporu pro moduly [MTB-REG](/cz/v2/reg) a [MTB-POT](/cz/v2/pot), vznikla
+novější verze modulu [MTB-USB](/cz/v2/usb), který navíc obsahuje i paměť RAM 32kB
 a je opatřen novějším obvodem USB rozhraní FT245RL. Procesor lze použít 89C52
 nebo lepší.
 
@@ -79,9 +79,9 @@ architekt systému MTB Petr Trávník. Rozhodli jsme se tak navrhnout nový syst
 MTB, který bude otevřený a který splní všechny naše nové požadavky. Vyvstal
 například požadavek na řízení jedné sběrnice pomocí více řídících systémů
 (např. řízení provozu kolejiště a řízení pouličního osvětlení). Vzniklo tak
-*MTB v4*.  Vznikl [nový protokol MTBbus](/v4/bus), moduly MTB-UNI MTB-UNIm
-a MTB-TTL byly sjednoceny do nového modulu [MTB-UNI v4](/v4/uni), vznikla [deska
-pro podporu IR čidel](/irdet), vznikl [nový modul MTB-USB](/v4/usb). Vznikly
-[nové počítačové aplikace a knihovny pro přístup k MTB](/v4/daemon). Autorem
+*MTB v4*.  Vznikl [nový protokol MTBbus](/cz/v4/bus), moduly MTB-UNI MTB-UNIm
+a MTB-TTL byly sjednoceny do nového modulu [MTB-UNI v4](/cz/v4/uni), vznikla [deska
+pro podporu IR čidel](/cz/irdet), vznikl [nový modul MTB-USB](/cz/v4/usb). Vznikly
+[nové počítačové aplikace a knihovny pro přístup k MTB](/cz/v4/daemon). Autorem
 MTB v4 je Jan Horáček, některé komponenty vznikaly ve spolupráci s [Laboratoří
 řízení kolejových vozidel MENDELU](https://lrkv.pef.mendelu.cz/).

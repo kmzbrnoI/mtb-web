@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MTB v2
-permalink: /v2/index
+permalink: /cz/v2/index
 order: 55
 lang: cz
 ref: mtbv2

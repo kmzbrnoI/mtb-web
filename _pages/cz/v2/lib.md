@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Knihovna pro PC
-permalink: /v2/lib
+permalink: /cz/v2/lib
 lang: cz
 hide: true
 ref: lib

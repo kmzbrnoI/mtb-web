@@ -1,7 +1,7 @@
 ---
 layout: page
 title: modul MTB-UNIm v2
-permalink: /v2/unim
+permalink: /cz/v2/unim
 lang: cz
 hide: true
 ref: ttl

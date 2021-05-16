@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MTB Daemon
-permalink: /v4/daemon
+permalink: /cz/v4/daemon
 order: 51
 lang: cz
 ref: daemon

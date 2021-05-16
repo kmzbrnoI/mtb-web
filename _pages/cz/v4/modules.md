@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MTB moduly
-permalink: /v4/modules
+permalink: /cz/v4/modules
 lang: cz
 hide: true
 ref: usb

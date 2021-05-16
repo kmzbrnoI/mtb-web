@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sběrnice MTBbus v4
-permalink: /v4/bus
+permalink: /cz/v4/bus
 lang: cz
 order: 20
 ref: bus

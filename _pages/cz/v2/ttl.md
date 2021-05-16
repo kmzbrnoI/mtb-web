@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modul MTB-TTL v1
-permalink: /v2/ttl
+permalink: /cz/v2/ttl
 lang: cz
 hide: true
 ref: ttl

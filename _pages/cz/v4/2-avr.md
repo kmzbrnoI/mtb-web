@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Deska MTB-2-AVR
-permalink: /v4/mtb-2-avr
+permalink: /cz/v4/mtb-2-avr
 lang: cz
 order: 24
 ref: mtb-2-avr
 ---
 
 Deska MTB-2-AVR umožňuje použít protokol MTBbus v4 spolu se starými moduly
-[MTB-UNI v2](/v2/uni), [MTB-UNIm v2](/v2/unim) a [MTB-TTL v1](/v2/ttl).
+[MTB-UNI v2](/cz/v2/uni), [MTB-UNIm v2](/cz/v2/unim) a [MTB-TTL v1](/cz/v2/ttl).
 Ze starých modulů se vytáhne procesor a místo něj vloží tato nástavná deska.
 
 <figure>

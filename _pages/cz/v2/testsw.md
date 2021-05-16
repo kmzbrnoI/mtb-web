@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Testovací SW
-permalink: /v2/testsw
+permalink: /cz/v2/testsw
 lang: cz
 hide: true
 ref: testsw

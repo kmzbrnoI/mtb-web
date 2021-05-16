@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modul MTB-POT v1
-permalink: /v2/pot
+permalink: /cz/v2/pot
 lang: cz
 hide: true
 ref: pot

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sběrnice MTBbus v2
-permalink: /v2/bus
+permalink: /cz/v2/bus
 lang: cz
 hide: true
 ref: bus

@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Modul MTB-UNI v4
-permalink: /v4/uni
+permalink: /cz/v4/uni
 lang: cz
 order: 23
 ref: uni
 ---
 
 Modul MTB-UNI umožňuje připojení digitálních vstupů, digitálních výstupů
-a S-COM výstupů. Nahrazuje moduly [MTB-UNI v2](/v2/uni), [MTB-UNIm v2](/v2/unim)
-a [MTB-TTL v1](/v2/ttl).
+a S-COM výstupů. Nahrazuje moduly [MTB-UNI v2](/cz/v2/uni), [MTB-UNIm v2](/cz/v2/unim)
+a [MTB-TTL v1](/cz/v2/ttl).
 
 <figure>
 <img src="/assets/img/mtb4/uni-v40-screw-all.jpg" alt="Modul MTB-UNI v4.0" style="width: 100%; max-width: 500px" />
@@ -39,8 +39,8 @@ konektorů nebo svorkovnic (variantní osazení DPS), rozhraní MTBbus se připo
 <figcaption>Modul MTB-UNI v4.0 se zásuvnými konektory</figcaption>
 </figure>
 
-Připojení IR čidel, které podporovala deska [MTB-UNI v2](/v2/uni) je možné
-skrze speciální desku [IR čidel](/irdet).
+Připojení IR čidel, které podporovala deska [MTB-UNI v2](/cz/v2/uni) je možné
+skrze speciální desku [IR čidel](/cz/irdet).
 
 Veškerá výrobní data modulu jsou k dispozici pod otevřenou licencí. Očekává se
 automatické osazování součástek.

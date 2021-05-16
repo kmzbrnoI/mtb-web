@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MTB-USB v3
-permalink: /v2/usb
+permalink: /cz/v2/usb
 lang: cz
 hide: true
 ref: usb

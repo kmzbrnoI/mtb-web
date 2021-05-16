@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MTB-USB v4
-permalink: /v4/usb
+permalink: /cz/v4/usb
 order: 21
 lang: cz
 ref: usb

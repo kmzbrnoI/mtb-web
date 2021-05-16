@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Modul MTB-UNI v2
-permalink: /v2/uni
+permalink: /cz/v2/uni
 lang: cz
 hide: true
 ref: uni
