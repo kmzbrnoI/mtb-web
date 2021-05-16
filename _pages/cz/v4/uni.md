@@ -35,7 +35,7 @@ konektorů nebo svorkovnic (variantní osazení DPS), rozhraní MTBbus se připo
 šroubovými svorkami.
 
 <figure>
-<img src="/assets/img/mtb4/uni-v40-psh-all.jpg" alt="Modul MTB-UNI v4.0" style="max-width: 500px" />
+<img src="/assets/img/mtb4/uni-v40-psh-all.jpg" alt="Modul MTB-UNI v4.0" style="width: 100%; max-width: 500px" />
 <figcaption>Modul MTB-UNI v4.0 se zásuvnými konektory</figcaption>
 </figure>
 
