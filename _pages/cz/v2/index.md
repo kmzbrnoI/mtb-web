@@ -7,15 +7,15 @@ lang: cz
 ref: mtbv2
 ---
 
-MTB v2 se již v KMŽ Brno I nepoužívá. MTB v4 přinesla nový komunikační protokol
-sjednotila moduly a přinesla mnohá další vylepšení. Dokumentace starého systému
+MTB v2 se již v KMŽ Brno I nepoužívá. MTB v4 přineslo nový komunikační protokol,
+sjednotilo moduly a přineslo mnohá další vylepšení. Dokumentace starého systému
 MTB v2 je k dispozici zde.
 
 * [Sběrnice MTBbus v2](bus)
 
 ## Moduly
 
-Sběrnice MTB je řízení *master* modulem [MTB-USB](usb). Historicky byla
+Sběrnice MTB je řízená *master* modulem [MTB-USB](usb). Historicky byla
 sběrnice řízena [zásuvnou kartou do ISA sběrnice](isa).
 
 Ke sběrnici lze připojit tyto moduly v režimu *slave*:

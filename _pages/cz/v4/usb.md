@@ -27,7 +27,7 @@ osazení součástek). Srdcem desky je procesor *STM32F103* v počítačové č
 který je programován v jazyce C.
 
  * Napájení: 7–17 V DC.
- * Náklady na výrobu: ~700 Kč.
+ * Náklady na výrobu: ~1000 Kč.
 
 V počítači se MTB-USB tváří jaké sériový port, lze se k němu tedy připojit
 z běžných operačních systémů (např. Windows a Linux) bez použití speciálních

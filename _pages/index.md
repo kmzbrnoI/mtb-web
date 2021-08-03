@@ -29,10 +29,10 @@ Systém MTB se skládá z:
 
 MTB moduly komunikují po sběrnici [MTBbus](/cz/v4/bus).
 
-Moduly jsou zabudovány přímo v kolejišti, co nejblíže ovládaných
+Moduly jsou zabudovány přímo v kolejišti, co nejblíže ovládaným
 prvků a snímaných signálů. Kabeláž ke každému modulu se skládá ze dvou
 vodičů RS485 a napájení 12 V. Díky zjednodušení propojení na pouhé 4 vodiče
-je snadné zabudovat MTBbus komponenty do rozkládacího příp. modulového
+je snadné zabudovat MTB komponenty do rozkládacího příp. modulového
 kolejiště, přičemž vlastní propojení se zajistí pomocí 4pólových konektorů.
 
 Sběrnice MTBbus je řízená *master* deskou [MTB-USB](/cz/v4/usb). Zatím existují tyto
