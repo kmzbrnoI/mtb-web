@@ -23,7 +23,7 @@ počítač.
 Celková architektura použití systému MTB pak může vypadat například takto:
 
 <figure>
-<img src="/assets/img/mtbv4-topology.svg" alt="Topologie sběrnice MTBbus" style="max-width: 600px" />
+<img src="/assets/img/mtbv4-topology.svg" alt="Topologie sběrnice MTBbus" style="width: 100%; max-width: 600px" />
 <figcaption>Topologie sběrnice MTBbus.</figcaption>
 </figure>
 
