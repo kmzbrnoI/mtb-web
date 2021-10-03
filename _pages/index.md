@@ -51,3 +51,7 @@ moduly:
  * Aktualizace firmware modulů přímo přes [MTBbus](/cz/v4/bus).
  * Výměna modulů možná za chodu sběrnice.
  * Otevřené řešení, všechna výrobní data pro všechny komponenty k dispozici.
+
+## Software podporující MTB
+
+ * [hJOP](https://hjop.kmz-brno.cz/)
