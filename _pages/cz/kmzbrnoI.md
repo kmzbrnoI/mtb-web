@@ -85,3 +85,4 @@ pro podporu IR čidel](/cz/irdet), vznikl [nový modul MTB-USB](/cz/v4/usb). Vzn
 [nové počítačové aplikace a knihovny pro přístup k MTB](/cz/v4/daemon). Autorem
 MTB v4 je Jan Horáček, některé komponenty vznikaly ve spolupráci s [Laboratoří
 řízení kolejových vozidel MENDELU](https://lrkv.pef.mendelu.cz/).
+Tvorbu systému MTB v4 popisuje [diplomová práce](https://is.muni.cz/th/cd3ln/).

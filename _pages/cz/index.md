@@ -39,7 +39,7 @@ Sběrnice MTBbus je řízená *master* deskou [MTB-USB](/cz/v4/usb). Zatím exis
 moduly:
 
  * [MTB-UNI](/cz/v4/uni)
- * [Rozšíření deskek MTB-UNI, MTB-UNIm a MTB-TTL v2 pro použití s MTB v4](/cz/v4/mtb-2-avr)
+ * [Rozšíření desek MTB-UNI, MTB-UNIm a MTB-TTL v2 pro použití s MTB v4](/cz/v4/mtb-2-avr)
 
 ## Základní vlastnosti systému MTB
 
@@ -55,3 +55,8 @@ moduly:
 ## Software podporující MTB
 
  * [hJOP](https://hjop.kmz-brno.cz/)
+
+## Chcete vědět více?
+
+Projděte si tento web. Pročtěte si
+[diplomovou práci](https://is.muni.cz/th/cd3ln/) popisující návrh MTB v4.
