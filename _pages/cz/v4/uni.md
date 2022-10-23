@@ -51,3 +51,8 @@ automatické osazování součástek.
 
 Modul vznikl ve spolupráci s [Laboratoří řízení kolejových vozidel Mendelový
 univerzity v Brně](https://lrkv.pef.mendelu.cz/).
+
+<div style="text-align:center;">
+<a class="btn" style="width:200px; margin: 10px;" href="uni-manual">Návod k použití</a>
+<a class="btn" style="width:200px; margin: 10px;" href="/cz/poridit">Chci si pořídit MTB-UNI v4</a>
+</div>

@@ -37,3 +37,11 @@ a.btn:hover {
         clear: both;
     }
 }
+
+.btn-center {
+    margin: 15px auto 15px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
