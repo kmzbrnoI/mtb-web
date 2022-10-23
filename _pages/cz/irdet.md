@@ -22,6 +22,8 @@ v4](/cz/v4/uni). Modul není připojen na sběrnici MTBbus!
  * Až 8 IR vstupů
  * 8 digitálních opticky oddělených výstupů
  * Napájení: 10–17 V DC
+ * Náklady na výrobu: ~200 Kč.
+ * Prodejní cena sestaveného a otestovaného kusu: 350 Kč.
 
 ## Ke stažení
 

@@ -28,6 +28,7 @@ který je programován v jazyce C.
 
  * Napájení: 7–17 V DC.
  * Náklady na výrobu: ~1000 Kč.
+ * Prodejní cena sestaveného a otestovaného kusu: 2000 Kč.
 
 V počítači se MTB-USB tváří jaké sériový port, lze se k němu tedy připojit
 z běžných operačních systémů (např. Windows a Linux) bez použití speciálních
