@@ -40,3 +40,7 @@ Veškerá výrobní data k modulu jsou k dispozici ve zdrojových formátech.
  * [Schéma zapojení modulu a výkres desky plošných spojů](https://github.com/kmzbrnoI/mtb-usb-4-pcb)
  * [Schéma ve formátu PDF](https://github.com/kmzbrnoI/mtb-usb-4-pcb/releases/latest/download/mtb-usb-4-ele.pdf)
  * [Firmware](https://github.com/kmzbrnoI/mtb-usb-4-fw)
+
+<div style="text-align:center;">
+<a class="btn" style="width:300px; margin: 10px;" href="/cz/poridit">Chci si pořídit MTB-USB v4</a>
+</div>

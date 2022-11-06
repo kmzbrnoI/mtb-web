@@ -31,3 +31,8 @@ v4](/cz/v4/uni). Modul není připojen na sběrnici MTBbus!
  * [Schéma ve formátu PDF](https://github.com/kmzbrnoI/irdet-ele/releases/latest/download/irdet-sch.pdf)
  * [Firmware – hex soubor](https://github.com/kmzbrnoI/irdet-fw/releases/latest)
  * [Firmware – zdrojové kódy](https://github.com/kmzbrnoI/irdet-fw)
+
+<div style="text-align:center;">
+<a class="btn" style="width:200px; margin: 10px;" href="irdet-manual">Návod k použití</a>
+<a class="btn" style="width:200px; margin: 10px;" href="/cz/poridit">Chci si pořídit IRdet</a>
+</div>
