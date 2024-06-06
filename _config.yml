@@ -45,6 +45,7 @@ permalink: pretty
 plugins:
   - jemoji
   - jekyll-sitemap
+  - jekyll-last-modified-at
 
 #
 # !! Danger zone !!
@@ -78,8 +79,9 @@ t:
   en:
     description: "IO bus for model railroad accessories control"
     keywords: io,bus,mtb,module,uni,ttl,protocol
-    footer: "<a href='https://github.com/kmzbrnoI/mtb-web'>This page</a> was created by <a href='http://apophis.cz/'>Jan Horáček</a> using <a href='http://jekyllrb.com'>Jekyll</a> with style <a href='https://github.com/ttskch/jekyll-ttskch-theme'>TtskchTheme</a>."
   cz:
     description: "IO sběrnice pro řízení příslušenství modelových kolejišť"
     keywords: io,sběrnice,mtb,modul,uni,ttl,protokol
-    footer: "<a href='https://github.com/kmzbrnoI/mtb-web'>Tuto stránku</a> vytvořil <a href='http://apophis.cz/'>Jan Horáček</a> za použití nástroje <a href='http://jekyllrb.com'>Jekyll</a> a stylu <a href='https://github.com/ttskch/jekyll-ttskch-theme'>TtskchTheme</a>."
+
+last-modified-at:
+    date-format: '%%y-%b-%d'
