@@ -56,27 +56,15 @@ souboru je [zde](https://github.com/kmzbrnoI/mtb-daemon/blob/master/doc.mtb-daem
 Po zapnutí MTB Daemona je možné se k daemonu připojit, např. ze SW hJOP pomocí
 mtb-net-lib.
 
-## Konzolový konfigurátor MTB Daemona
+## Konfigurace MTB Daemona
 
-Pro pokročilejší ovládání MTB Daemona, např. nastavení konfigurace MTB modulu,
-je možné využít [konzolový skript `manage.py`](https://github.com/kmzbrnoI/mtb-daemon/blob/master/utils/manage.py).
+Konfigurace MTBbus a MTB modulů doporučujeme provádět pomocí jedné z konfiguračních
+aplikací:
 
-Filosofie MTB Daemona je taková, že veškeré operace se provádějí skrze síťové
-rozhraní. Zásahy do souboru `mtb-daemon.json` uživatelem by měly být minimální.
+* [Okénková aplikace MTB Config Tool](/cz/v4/config-tool)
+* [Konzolová aplikace manage.py](/cz/v4/manage-py)
 
-Skript je jednoduchá konzolová aplikace psaná v jazyce Python. Nezapomeňte si
-tedy pro jeho běh nainstalovat Python.
-
-<figure>
-<img src="/assets/img/mtb4/manage-py-mtbusb.png" alt="Zjištění informací o MTB-USB skrze manage.py" style="width: 100%; max-width: 524px" />
-<figcaption>Příklad: zjištění informací o MTB-USB skrze `manage.py`.</figcaption>
-</figure>
-
-Více informací o použití `manage.py` lze vyčíst buď po spuštění
-`manage.py --help` nebo přímo ze [zdrojového
-kódu](https://github.com/kmzbrnoI/mtb-daemon/blob/master/utils/manage.py).
-
-## Okénkový konfigurátor MTB Daemona
-
-Okénkový konfigurátor MTB Daemona je v přípravě ve spolupráci s kolegou Michalem
-Petrilakem.
+MTB Daemon si veškerou konfiguraci ukládá do textového souboru `mtb-daemon.json`.
+Tento soubor obecně nedoporučujeme upravovat ručně, za pozornost k ruční úpravě
+však stojí sekce mimo sekci `modules`. Např. v `server/allowedClients` lze vyjmenovat
+IP adresy klientů, kteří mají mít přístup ke sběrnici pro zápis.
