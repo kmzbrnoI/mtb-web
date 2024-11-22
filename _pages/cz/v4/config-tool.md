@@ -14,6 +14,7 @@ konfigurovat MTB-USB a MTB moduly. Připojuje se k MTB Daemonu standardním sí
 připojením.
 
 <a class="btn" href="https://github.com/kmzbrnoI/mtb-config-tool/releases">Stáhnout</a>
+<a class="btn" href="https://github.com/kmzbrnoI/mtb-config-tool">Repozitář se zdrojovými kódy</a>
 
 <figure>
 <img src="/assets/img/mtb4/mtb-config-tool/main-window-cz.png" alt="Hlavní okno MTB Config Tool v češtině" style="width: 100%;" />
