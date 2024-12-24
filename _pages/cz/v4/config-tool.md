@@ -32,6 +32,7 @@ připojením.
 * De/aktivace majáku modulu.
 * Konfigurace modulu.
   - Podporované moduly: MTB-UNI, MTB-UNIS.
+* Zobrazení stavu vstupů MTB modulů, nastavení výstupů MTB modulů.
 * Restart modulu.
 * Čtení diagnostiky modulu.
 * Změna adresy modulu.
@@ -47,8 +48,13 @@ připojením.
 </figure>
 
 <figure>
-<img src="/assets/img/mtb4/mtb-config-tool/mtb-uni-v2-config.png" alt="Konfigurace modulu typu MTB-UNI v2" style="height: 650px;" />
+<img src="/assets/img/mtb4/mtb-config-tool/mtb-uni-v2-config.png" alt="Konfigurace modulu typu MTB-UNI v2" style="height: 100%;" />
 <figcaption>Konfigurace modulu typu MTB-UNI v2.</figcaption>
+</figure>
+
+<figure>
+<img src="/assets/img/mtb4/mtb-config-tool/mtb-uni-io.png" alt="Vstupy/výstupy modulu typu MTB-UNI v2" style="height: 100%;" />
+<figcaption>Diagnostika modulu typu MTB-UNI v2.</figcaption>
 </figure>
 
 <figure>
