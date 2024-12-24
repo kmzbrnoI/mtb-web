@@ -1,0 +1,29 @@
+---
+layout: page
+title: Všechny aktuality
+permalink: /archive/
+hide: true
+share: false
+lang: cz
+---
+
+{% for post in site.posts %}
+    {% unless post.next %}
+        <h3>{{ post.date | date: '%Y' }}</h3>
+        <ul>
+    {% else %}
+        {% assign year = post.date | date: '%Y' %}
+        {% assign next_year = post.next.date | date: '%Y' %}
+        {% if year != next_year %}
+        </ul>
+        <h3>{{ post.date | date: '%Y' }}</h3>
+        <ul>
+        {% endif %}
+    {% endunless %}
+
+    <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</a></li>
+{% endfor %}
+
+{% if site.posts %}
+</ul>
+{% endif %}

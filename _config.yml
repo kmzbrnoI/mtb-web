@@ -79,9 +79,13 @@ t:
   en:
     description: "IO bus for model railroad accessories control"
     keywords: io,bus,mtb,module,uni,ttl,protocol
+    str_recent_posts: News
+    str_all_posts: All news
   cz:
     description: "IO sběrnice pro řízení příslušenství modelových kolejišť"
     keywords: io,sběrnice,mtb,modul,uni,ttl,protokol
+    str_recent_posts: Aktuality
+    str_all_posts: Všechny aktuality
 
 last-modified-at:
     date-format: '%%y-%b-%d'
