@@ -19,7 +19,7 @@ a [MTB-TTL v1](/cz/v2/ttl).
  * Počet vstupů: 16 (připojení TTL signálů, spínacích kontaktů nebo otevřených kolektorů).
  * Počet výstupů: 16 spínacích tranzistorů, tj. 8 dvoučinných přestavníků.
  * Ovládaní až 16 návěstidel vybavených rozhraním
-   [S-com](https://www.mtb-model.com/elektro/s-com.htm).
+   [S-COM](https://www.mtb-model.com/elektro/s-com.htm).
  * Kmitání výstupů.
  * Napájení: 7–17 V DC.
  * Náklady na výrobu: ~500 Kč.
