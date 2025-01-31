@@ -38,8 +38,9 @@ kolejiště, přičemž vlastní propojení se zajistí pomocí 4pólových kone
 Sběrnice MTBbus je řízená *master* deskou [MTB-USB](/cz/v4/usb). Zatím existují tyto
 moduly:
 
- * [MTB-UNI](/cz/v4/uni)
- * [Rozšíření desek MTB-UNI, MTB-UNIm a MTB-TTL v2 pro použití s MTB v4](/cz/v4/mtb-2-avr)
+ 1. [MTB-UNI](/cz/v4/uni)
+ 2. [MTB-UNIS](/cz/v4/unis)
+ 3. [Rozšíření desek MTB-UNI, MTB-UNIm a MTB-TTL v2 pro použití s MTB v4](/cz/v4/mtb-2-avr)
 
 ## Základní vlastnosti systému MTB
 
