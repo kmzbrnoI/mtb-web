@@ -49,7 +49,7 @@ automatické osazování součástek.
  * [Schéma a deska plošných spojů](https://github.com/kmzbrnoI/mtb-uni-4-ele)
  * [Firmware](https://github.com/kmzbrnoI/mtb-uni-4-fw)
 
-Modul vznikl ve spolupráci s [Laboratoří řízení kolejových vozidel Mendelový
+Modul vznikl ve spolupráci s [Laboratoří řízení kolejových vozidel Mendelovy
 univerzity v Brně](https://lrkv.pef.mendelu.cz/).
 
 <div style="text-align:center;">
