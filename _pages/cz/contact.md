@@ -7,7 +7,7 @@ lang: cz
 ref: contact
 ---
 
-Autorem *MTB v4* a aktuálním správcem projektu v KMŽ Brno I je Honza Horáček.
+Autorem *MTB v4* a aktuálním správcem projektu v KMŽ Brno I je Honza Malina (ex Horáček).
 Libovolné dotazy a připomínky směřujte na něj:
 [jan.horacek@kmz-brno.cz](mailto:jan.horacek@kmz-brno.cz).
 

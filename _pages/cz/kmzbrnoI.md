@@ -83,6 +83,6 @@ například požadavek na řízení jedné sběrnice pomocí více řídících 
 a MTB-TTL byly sjednoceny do nového modulu [MTB-UNI v4](/cz/v4/uni), vznikla [deska
 pro podporu IR čidel](/cz/irdet), vznikl [nový modul MTB-USB](/cz/v4/usb). Vznikly
 [nové počítačové aplikace a knihovny pro přístup k MTB](/cz/v4/daemon). Autorem
-MTB v4 je Jan Horáček, některé komponenty vznikaly ve spolupráci s [Laboratoří
+MTB v4 je Jan Malina (ex Horáček), některé komponenty vznikaly ve spolupráci s [Laboratoří
 řízení kolejových vozidel MENDELU](https://lrkv.pef.mendelu.cz/).
 Tvorbu systému MTB v4 popisuje [diplomová práce](https://is.muni.cz/th/cd3ln/).
