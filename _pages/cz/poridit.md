@@ -8,4 +8,4 @@ lang: cz
 
 Máte zájem koupit si MTB moduly? Nebo rovnou řídit celé vaše kolejiště systémem
 MTB? Ozvěte se na
-<a href="mailto:jan.horacek@kmz-brno.cz">jan.horacek@kmz-brno.cz</a>.
+<a href="mailto:jan.malina@kmz-brno.cz">jan.malina@kmz-brno.cz</a>.

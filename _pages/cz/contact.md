@@ -9,7 +9,7 @@ ref: contact
 
 Autorem *MTB v4* a aktuálním správcem projektu v KMŽ Brno I je Honza Malina (ex Horáček).
 Libovolné dotazy a připomínky směřujte na něj:
-[jan.horacek@kmz-brno.cz](mailto:jan.horacek@kmz-brno.cz).
+[jan.malina@kmz-brno.cz](mailto:jan.malina@kmz-brno.cz).
 
 Návrh MTB v4 je detailně popsán v [diplomové práci](https://is.muni.cz/th/cd3ln/).
 
