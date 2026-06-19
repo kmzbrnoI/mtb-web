@@ -31,6 +31,8 @@ Srdcem modulu je procesor ATmega128a, který obsahuje všechny potřebné funkce
 pro řízení a komunikaci. Připojení signálů je realizováno pomocí svorkovnic,
 rozhraní MTBbus se připojuje také svorkovnicemi.
 
+* [Firmware](https://github.com/petrilakm/mtb-unis-fw)
+
 <!-- <figure>
 <img src="/assets/img/mtb4/uni-v40-psh-all.jpg" alt="Modul MTB-UNI v4.0" style="width: 100%; max-width: 500px" />
 <figcaption>Modul MTB-UNI v4.0 se zásuvnými konektory</figcaption>
