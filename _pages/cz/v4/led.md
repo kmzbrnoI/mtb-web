@@ -27,8 +27,8 @@ stacionárního osvětlení – pouliční osvětlení, osvětlení domů, budov
  * Indikace funkčního/přerušeného okruhu zpět do PC.
  * Napájení: 7–17 V DC.
  * Softwarová adresa MTBbus (uložena v EEPROM).
- * Náklady na výrobu: ~?00 Kč.
- * Typická prodejní cena sestaveného a otestovaného kusu: ??? Kč.
+ * Náklady na výrobu: 750 Kč.
+ * Typická prodejní cena sestaveného a otestovaného kusu: 1200 Kč.
 
 Srdcem modulu je procesor ATmega328p, který obsahuje všechny potřebné funkce
 pro řízení a komunikaci. Připojení LED, MTBbus a napájení je realizováno pomocí zásuvných
@@ -80,3 +80,17 @@ Veškerá výrobní data modulu jsou k dispozici pod otevřenou licencí.
 <div style="text-align:center;">
 <a class="btn" style="width:200px; margin: 10px;" href="/cz/poridit">Chci si pořídit MTB-LED</a>
 </div>
+
+## Nákladová rozvaha
+
+| Co                          |    Cena    |
+|-----------------------------|-----------:|
+| Deska plošných spojů        |      50 Kč |
+| Mikrokontrolér ATmega328PB  |      42 Kč |
+| 2× TLC5940                  |     160 Kč |
+| Driver RS485                |      60 Kč |
+| Svorkovnice DPS část        |     114 Kč |
+| Svorkovnice násuvná část    |     208 Kč |
+| Diskrétní součástky         |    ~100 Kč |
+| **Celkem**                  | **734 Kč** |
+
