@@ -58,6 +58,18 @@ proud a LED svítí. Výstup 11 sice má být aktivní, ale proud jim neprocház
 jednat o přerušený vodič, vadnou LED apod.</figcaption>
 </figure>
 
+## Ukázka modulu
+
+<figure>
+<img src="/assets/img/mtb4/mtb-led-top.png" alt="Pohled na čelní stranu modulu MTB-LED" style="width: 100%;" />
+<figcaption>Pohled na čelní stranu modulu MTB-LED</figcaption>
+</figure>
+
+<figure>
+<img src="/assets/img/mtb4/mtb-led-bot.jpg" alt="Pohled na zadní stranu modulu MTB-LED" style="width: 100%;" />
+<figcaption>Pohled na zadní stranu modulu MTB-LED</figcaption>
+</figure>
+
 ## Data
 
 Veškerá výrobní data modulu jsou k dispozici pod otevřenou licencí.
