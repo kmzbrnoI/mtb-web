@@ -7,7 +7,7 @@ order: 27
 ref: led
 ---
 
-Modul MTB-LED umožňuje připojení 32 LED. Předpokládané využití je ovládání
+Modul MTB-LED umožňuje připojení až 32 LED okruhů. Předpokládané využití je ovládání
 stacionárního osvětlení – pouliční osvětlení, osvětlení domů, budov atd.
 
 <figure>
@@ -18,16 +18,15 @@ stacionárního osvětlení – pouliční osvětlení, osvětlení domů, budov
 ## Vlastnosti
 
  * 32 samostatně řízených výstupů z PC.
- * Proudový zdroj 20 mA.
- * V konfiguraci modulu je u každého výstupu možné samostatně nastavit PWM
+ * Proudový zdroj 20 mA pro každý výstup.
+ * V konfiguraci modulu u každého výstupu možnost samostatně nastavit PWM
    připojení proudového zdroje v rozsahu 1–255.
- * K výstupům se připojuje záporný pól LED, kladný pól je společný pro všechny LED (okruhy).
- * Možnost připojit více LED v jednom okruhu v sérii (typicky až 5 žlutých LED v okruhu).
+ * Možnost zapojit více LED v jednom okruhu v sérii (typicky až 5 žlutých LED v okruhu).
  * LED nepotřebují žádné další externí součástky – rezistory apod., do modulu se připojují přímo LED.
  * Indikace funkčního/přerušeného okruhu zpět do PC.
  * Napájení: 7–17 V DC.
  * Softwarová adresa MTBbus (uložena v EEPROM).
- * Náklady na výrobu: 750 Kč.
+ * Náklady na výrobu modulu: ~750 Kč.
  * Typická prodejní cena sestaveného a otestovaného kusu: 1200 Kč.
 
 Srdcem modulu je procesor ATmega328p, který obsahuje všechny potřebné funkce
@@ -36,6 +35,8 @@ pro řízení a komunikaci. Připojení LED, MTBbus a napájení je realizován
 J2 a J4. K ovládání LED výstupů jsou využity obvody TLC5940.
 
 ## Příklad použití modulu
+
+K výstupům se připojuje záporný pól LED, kladný pól je společný pro všechny LED (okruhy).
 
 <figure>
 <img src="/assets/img/mtb4/mtb-led-example.svg" alt="Příklad použití modulu MTB-LED" style="width: 100%" />
