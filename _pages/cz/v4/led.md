@@ -34,6 +34,11 @@ pro řízení a komunikaci. Připojení LED, MTBbus a napájení je realizován
 šroubových svorkovnic. Napájení a MTBbus lze připojit na libovolný z konektorů
 J2 a J4. K ovládání LED výstupů jsou využity obvody TLC5940.
 
+<figure>
+<img src="/assets/img/mtb-led-example.svg" alt="Příklad použití modulu MTB-LED" style="width: 100%" />
+<figcaption>Příklad použití modulu MTB-LED</figcaption>
+</figure>
+
 Veškerá výrobní data modulu jsou k dispozici pod otevřenou licencí.
 
  * [Schéma a deska plošných spojů](https://github.com/kmzbrnoI/mtb-led-hw)
