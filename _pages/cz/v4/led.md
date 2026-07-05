@@ -11,7 +11,7 @@ Modul MTB-LED umožňuje připojení 32 LED. Předpokládané využití je ovlá
 stacionárního osvětlení – pouliční osvětlení, osvětlení domů, budov atd.
 
 <figure>
-<img src="/assets/img/mtb4/uni-v40-screw-all.jpg" alt="Modul MTB-LED" style="width: 100%; max-width: 500px" />
+<img src="/assets/img/mtb4/mtb-led-photo.jpg" alt="Modul MTB-LED" style="width: 100%; max-width: 500px" />
 <figcaption>Modul MTB-LED</figcaption>
 </figure>
 
