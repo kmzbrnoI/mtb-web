@@ -10,10 +10,10 @@ ref: uni
 Modul MTB-RC umožňuje připojení 8 kolejových obvodů, ze kterých pomocí protokolu
 [RailCom](https://dccwiki.com/RailCom) vyčítá adresy přítomných DCC dekodérů.
 
-<!-- <figure>
-<img src="/assets/img/mtb4/rc-screw-all.jpg" alt="Modul MTB-RC" style="width: 100%; max-width: 500px" />
+<figure>
+<img src="/assets/img/mtb4/mtb-rc-photo.jpg" alt="Modul MTB-RC" style="width: 100%; max-width: 500px" />
 <figcaption>Modul MTB-RC</figcaption>
-</figure> -->
+</figure>
 
  * Počet kolejových obvodů: 8.
  * Umožňuje čtení DCC adres přítomných mobilních dekodérů.

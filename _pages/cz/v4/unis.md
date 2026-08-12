@@ -10,10 +10,10 @@ ref: unis
 Modul MTB-UNIS umožňuje připojení digitálních vstupů, digitálních výstupů,
 S-COM výstupů a serv. Autorem modulu je Ing. Michal Petrilak.
 
-<!-- <figure>
-<img src="/assets/img/mtb4/uni-v40-screw-all.jpg" alt="Modul MTB-UNI v4.0" style="width: 100%; max-width: 500px" />
-<figcaption>Modul MTB-UNI v4.0</figcaption>
-</figure> -->
+<figure>
+<img src="/assets/img/mtb4/mtb-unis-photo.jpg" alt="Modul MTB-UNIS" style="width: 100%; max-width: 500px" />
+<figcaption>Modul MTB-UNIS</figcaption>
+</figure>
 
  * Počet vstupů: 16 (připojení TTL signálů, spínacích kontaktů nebo otevřených kolektorů).
  * Počet výstupů: 16 spínacích tranzistorů, tj. 8 dvoučinných přestavníků.
