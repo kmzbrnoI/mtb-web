@@ -33,6 +33,20 @@ rozhraní MTBbus se připojuje také svorkovnicemi.
 
 * [Firmware](https://github.com/petrilakm/mtb-unis-fw)
 
+## Konfigurace modulu
+
+<figure>
+<img src="/assets/img/mtb4/mtb-unis-config.png" alt="Konfigurace modulu MTB-UNIS" style="height: 100%" />
+<figcaption>Konfigurace modulu MTB-UNIS</figcaption>
+</figure>
+
+## Stav modulu
+
+<figure>
+<img src="/assets/img/mtb4/mtb-unis-io.png" alt="Stav modulu MTB-UNIS" style="height: 100%" />
+<figcaption>Stav modulu MTB-UNIS. Zobrazuje se stav vstupů, výstupů a koncových poloh serv. Lze nastavit výstupy a polohovat serva. Lze ladit přesné polohy serv.</figcaption>
+</figure>
+
 <!-- <figure>
 <img src="/assets/img/mtb4/uni-v40-psh-all.jpg" alt="Modul MTB-UNI v4.0" style="width: 100%; max-width: 500px" />
 <figcaption>Modul MTB-UNI v4.0 se zásuvnými konektory</figcaption>
