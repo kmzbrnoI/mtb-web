@@ -47,7 +47,7 @@ moduly:
 ## Základní vlastnosti systému MTB
 
  * Snímání digitálních vstupů z kolejiště.
- * Řízení digitálních výstupů a [S-COM](https://www.mtb-model.com/elektro/s-com.htm) návěstidel.
+ * Řízení digitálních výstupů a [S-com](https://www.mtb-model.com/elektro/s-com.htm) návěstidel.
  * Až 255 modulů, celkem až 4080 vstupů a 4080 výstupů.
  * Sběrnice RS485.
  * Detekce funkčnosti modulů.

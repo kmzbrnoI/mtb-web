@@ -53,7 +53,7 @@ ale není možné ze všech 8 výstupů kontinuálně odebírat 500 mA.
 
 Výstupy pracují v režimu, kdy přizemněný výstup znamená aktivní výstup.
 V závislosti na použitém řídicím softwaru výstupy mohou kmitat či generovat signál
-[S-COM](https://www.mtb-model.com/elektro/s-com.htm) pro řízení návěstidel.
+[S-com](https://www.mtb-model.com/elektro/s-com.htm) pro řízení návěstidel.
 
 ## Konfigurace adresy
 

@@ -8,7 +8,7 @@ ref: unis
 ---
 
 Modul MTB-UNIS umožňuje připojení digitálních vstupů, digitálních výstupů,
-S-COM výstupů a serv. Autorem modulu je Ing. Michal Petrilak.
+S-com výstupů a serv. Autorem modulu je Ing. Michal Petrilak.
 
 <figure>
 <img src="/assets/img/mtb4/mtb-unis-photo.jpg" alt="Modul MTB-UNIS" style="width: 100%; max-width: 500px" />
@@ -19,7 +19,7 @@ S-COM výstupů a serv. Autorem modulu je Ing. Michal Petrilak.
  * Počet výstupů: 16 spínacích tranzistorů, tj. 8 dvoučinných přestavníků.
  * Počet serv: 6.
  * Ovládaní až 16 návěstidel vybavených rozhraním
-   [S-COM](https://www.mtb-model.com/elektro/s-com.htm).
+   [S-com](https://www.mtb-model.com/elektro/s-com.htm).
  * Kmitání výstupů.
  * Napájení: 7–17 V DC.
 
