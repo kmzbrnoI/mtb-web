@@ -1,34 +1,35 @@
-MTB je systém pro řízení příslušenství modelového kolejiště. MTB zpracovává
-vstupy z kolejiště (např. detekce obsazení kolejových obvodů, signalizace
-polohy přestavníků, ...) a nastavuje výstupy v kolejišti (např. výhybky,
-návěstidla, ...). Systém je typicky řízený z počítače, ve kterém běží SW
-zabezpečující provoz. MTB neřídí jízdu vlaku, řídí pouze příslušenství
-v kolejišti.
+MTB (*Model Train Bus*) je systém pro řízení stacionárních prvků modelového kolejiště.
+MTB zpracovává vstupy z kolejiště (např. detekce obsazení kolejových obvodů,
+signalizace polohy přestavníků) a nastavuje výstupy v kolejišti (např.
+výhybky, návěstidla). Systém je typicky řízený z počítače, ve kterém běží
+software ovládající provoz kolejiště. MTB neřídí jízdu vlaku, ovládá pouze
+stacionární prvky kolejiště.
 
 **Systém MTB v roce 2021 zaznamenal výraznou aktualizaci. Vzniklo *MTB v4*.
 Tento web popisuje novou verzi 4, dokumentace starší verze 2 je dostupná
 [zde](/cz/v2).**
 
 Systém MTB se skládá z:
- * vstupně/výstupních modulů (vizte níže),
- * [MTB-USB desky](/cz/v4/usb) pro připojení systému k počítači,
- * [počítačových aplikací a knihoven](/cz/v4/daemon) pro přístup ke sběrnici.
+1. vstupně/výstupních hardwarových modulů (vizte níže),
+2. [MTB-USB desky](/cz/v4/usb) pro připojení systému k počítači,
+3. [počítačových aplikací a knihoven](/cz/v4/daemon) pro přístup k systému.
 
 <figure>
 <img src="/assets/img/mtbv4-topology.svg" alt="Topologie sběrnice MTBbus" />
-<figcaption>Topologie sběrnice MTBbus.</figcaption>
+<figcaption>Vymezení systému MTB (modré pozadí).</figcaption>
 </figure>
 
 MTB moduly komunikují po sběrnici [MTBbus](/cz/v4/bus).
 
 Moduly jsou zabudovány přímo v kolejišti, co nejblíže ovládaným
-prvků a snímaných signálů. Kabeláž ke každému modulu se skládá ze dvou
+prvků a snímaným signálům. Kabeláž ke každému modulu se skládá ze dvou
 vodičů RS485 a napájení 12 V. Díky zjednodušení propojení na pouhé 4 vodiče
 je snadné zabudovat MTB komponenty do rozkládacího příp. modulového
 kolejiště, přičemž vlastní propojení se zajistí pomocí 4pólových konektorů.
 
-Sběrnice MTBbus je řízená *master* deskou [MTB-USB](/cz/v4/usb). Zatím existují tyto
-moduly:
+Sběrnice MTBbus je řízená *master* deskou [MTB-USB](/cz/v4/usb).
+
+## MTB moduly
 
  1. [MTB-UNI](/cz/v4/uni)
  2. [MTB-UNIS](/cz/v4/unis)
