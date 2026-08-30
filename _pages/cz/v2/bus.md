@@ -19,7 +19,7 @@ modelářství, znalost komunikace však není podmínkou ke stavbě a oživen�
  * [Popis komunikace MTBbus v2.0](/assets/pdf/mtb-protok20.pdf)
 
 ---
-**Pozor**: KMŽ Brno I momentálně (2020) využívá protokol v3.0, který na těchto
+**Pozor**: KMŽ Brno I v roce 2020 využívalo protokol v3.0, který na těchto
 stránkách z licenčních důvodů nemůžeme uvést. v3.0 se od verze 2.0 zásadně
 neliší: mění ID modulů, přidává víc rychlostí komunikace a přidává kontrolní
 součty do odpovědí modulů.

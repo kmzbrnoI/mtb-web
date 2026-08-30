@@ -8,8 +8,8 @@ ref: bus
 ---
 
 Komunikace mezi MTB moduly probíhá pomocí dvouvodičového rozhraní RS485.
-V přenosu dat je použit devítibitový režim UART. Přenosová rychlost je 38.4 kBd
-– 230 kBd. Komunikace je založena na principu master-slave, tj. příkazy
+V přenosu dat je použit devítibitový režim UART. Přenosová rychlost je 38.4 kBdps
+– 230 kBdps. Komunikace je založena na principu master-slave, tj. příkazy
 vysílá výhradně [MTB-USB deska](usb) jednotlivým modulům, které odpovídají.
 Každý modul má nastavenu unikátní adresu, pomocí které mu jsou směrovány
 příkazy. Detailnější rozebírání komunikace již spadá mimo oblast modelářství,

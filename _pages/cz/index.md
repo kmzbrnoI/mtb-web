@@ -18,7 +18,7 @@ Tento web popisuje novou verzi 4, dokumentace starší verze 2 je dostupná
 [zde](/cz/v2).**
 
 Systém MTB se skládá z:
- * [vstupně/výstupních modulů](/cz/v4/modules),
+ * vstupně/výstupních modulů (vizte níže),
  * [MTB-USB desky](/cz/v4/usb) pro připojení systému k počítači,
  * [počítačových aplikací a knihoven](/cz/v4/daemon) pro přístup ke sběrnici.
 
@@ -42,6 +42,7 @@ moduly:
  2. [MTB-UNIS](/cz/v4/unis)
  3. [Rozšíření desek MTB-UNI, MTB-UNIm a MTB-TTL v2 pro použití s MTB v4](/cz/v4/mtb-2-avr)
  4. [MTB-RC](/cz/v4/rc)
+ 5. [MTB-LED](/cz/v4/led)
 
 ## Základní vlastnosti systému MTB
 
