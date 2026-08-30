@@ -38,7 +38,7 @@ ovladačů. Specifikace protokolu mezi MTB-USB a počítačem je k dispozici
 Veškerá výrobní data k modulu jsou k dispozici ve zdrojových formátech.
 
  * [Schéma zapojení modulu a výkres desky plošných spojů](https://github.com/kmzbrnoI/mtb-usb-4-pcb)
- * [Schéma ve formátu PDF](https://github.com/kmzbrnoI/mtb-usb-4-pcb/releases/latest/download/mtb-usb-4-ele.pdf)
+ * [Schéma ve formátu PDF](https://github.com/kmzbrnoI/mtb-usb-4-pcb/releases/download/v4.3/mtb-usb-4-ele-sch-v4.3.pdf)
  * [Firmware](https://github.com/kmzbrnoI/mtb-usb-4-fw)
 
 <div style="text-align:center;">
